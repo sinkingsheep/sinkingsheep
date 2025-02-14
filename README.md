@@ -5,7 +5,7 @@
 
 Hi, I’m **Sujith**—a tech enthusiast with over **12 years** of experience crafting solutions that make technology exciting and accessible. From **Web3** to **AI breakthroughs** and everything in between, I thrive on solving problems with innovation, scalability, and elegance. 
 
-I specialize in **Android**, **web4**, **full-stack Node.js**, **React**, **Python**, and **Unreal Engine**.
+I specialize in **Android**, **web3**, **full-stack Node.js**, **React**, **Python**, and **Unreal Engine**.
 
 ---
 
